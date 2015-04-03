@@ -1,0 +1,32 @@
+.left_block{
+    width:210px !important;
+    float:left !important;     
+    padding-left: 10px !important;
+    padding-right: 0px !important;
+}
+.main_block{
+   width: 1000px !important;
+   padding-left: 10px !important;
+   padding-right: 10px !important;
+margin-left: 0px !important;
+}
+
+
+.aritex_ads .aritex_object{
+background-color: #FFFFD9;
+}
+
+.desc_text div{
+	padding-bottom: 8px;
+	
+}
+
+.desc_text ul{
+	
+	display: inline-block;
+	
+}
+
+.service_desc div{
+padding-bottom: 8px;
+}

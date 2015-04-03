@@ -1,0 +1,62 @@
+
+
+.aritex_yashare_plus{
+    padding-top: 5px !important;
+	height: 51px !important;
+	padding-bottom: 0px !important;
+}
+
+
+
+.b-share-icon{
+width: 36px !important;
+height: 36px !important;
+background-size: 100% !important;
+}
+
+
+.b-share-icon:hover{
+opacity: 0.8;
+}
+
+.b-share-icon_vkontakte{
+
+	background: url("/images/icons/social/vk1.png")  no-repeat !important;
+
+}
+
+.b-share-icon_lj{
+
+	background: url("/images/icons/social/l1.png")  no-repeat !important;
+
+}
+
+.b-share-icon_moimir{
+
+	background: url("/images/icons/social/m1.png")  no-repeat !important;
+
+}
+.b-share-icon_facebook{
+
+
+	background: url("/images/icons/social/fb1.png") no-repeat !important;
+
+}
+
+.b-share-icon_gplus{
+
+	background: url("/images/icons/social/gp1.png")  no-repeat !important;
+
+}
+
+.b-share-icon_twitter{
+
+	background: url("/images/icons/social/tw1.png")  no-repeat !important;
+
+}
+
+.b-share-icon_odnoklassniki{
+
+	background: url("/images/icons/social/ok1.png")  no-repeat !important;
+
+}
